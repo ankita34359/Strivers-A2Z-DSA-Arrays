@@ -1,7 +1,8 @@
 # Striver's A2Z DSA - Array 
 
 ## 📌 About This Repository
-This repository is dedicated to solving all array-related problems from the **Striver's A2Z DSA Sheet/Course** available at [Take U Forward](https://takeuforward.org/). It serves as a structured resource for mastering array problems, enhancing problem-solving skills, and preparing for technical interviews.
+This repository is dedicated to solving all array-related problems from the **Striver's A2Z DSA Sheet/Course** available at [Take U Forward](https://takeuforward.org/). 
+It serves as a structured resource for mastering array problems, enhancing problem-solving skills, and preparing for technical interviews.
 
 Each solution includes:
 - **Problem Statement** (where applicable)
