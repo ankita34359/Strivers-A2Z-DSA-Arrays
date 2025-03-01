@@ -26,4 +26,4 @@ Space Complexity: O(n)
 
 ## Solution
 
-[!Screenshot](i1.png)
+(!Screenshot)[i1.png]
