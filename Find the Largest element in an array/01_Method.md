@@ -9,7 +9,7 @@ We can sort the array in ascending order, hence the largest element will be at t
 Sort the array in ascending order.
 
 Print the (size of the array -1)th index.
-
+ 
 ## DryRun: 
 
 Before sorting: arr[] = {2,5,1,3,0};
