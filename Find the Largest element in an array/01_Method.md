@@ -1,4 +1,4 @@
-# Find the Largest element in an array by sorting the array in ascending order. 
+# Find the Largest element in an array by sorting the array in ascending order.  
 
 ## Theory Solution1: Sorting
 
