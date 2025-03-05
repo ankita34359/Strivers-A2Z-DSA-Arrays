@@ -1,6 +1,6 @@
 # Find the Largest element in an array by sorting the array in ascending order.  
 
-## Theory Solution1: Sorting
+## Theory Solution1: Sorting 
 
 We can sort the array in ascending order, hence the largest element will be at the last index of the array. 
 
